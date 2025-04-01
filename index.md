@@ -4,3 +4,7 @@
 #### This is an `<h6>` header, which is the
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
